@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Prova Exercici Fernando"
+echo "Aquest script ha sigut modificat mitjatçant un Fork!"
